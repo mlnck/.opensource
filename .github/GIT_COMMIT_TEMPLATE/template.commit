@@ -1,5 +1,5 @@
-#nerd_face: ##################################################
 :nerd_face: 
+#nerd_face: ##################################################
 #  https://
 #  No External Reference
 
@@ -12,6 +12,7 @@
 #     Update template-hash line if emoji changes
 #
 # link to issue (trello / asana / jira / etc)
+# OR explicitly specify 'No External Reference'
 #
 # 72-character wrapped longer description.
 #   Bullets acceptible as * or -
