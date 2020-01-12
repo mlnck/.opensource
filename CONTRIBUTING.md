@@ -324,8 +324,6 @@ Please open an issue on `mlnck/.opensource` if you have suggestions for new labe
 
 [beginner]:https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Abeginner+label%3Ahelp-wanted+user%3Amlnck+sort%3Acomments-desc
 [help-wanted]:https://github.com/search?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted+user%3Amlnck+sort%3Acomments-desc+-label%3Abeginner
-[contributing-to-official-mlnck-packages]:https://flight-manual.mlnck.io/hacking-mlnck/sections/contributing-to-official-mlnck-packages/
-[hacking-on-mlnck-core]: https://flight-manual.mlnck.io/hacking-mlnck/sections/hacking-on-mlnck-core/
 
 Thanks,
 mlnck.me
