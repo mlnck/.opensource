@@ -1,8 +1,10 @@
-:nerd_face: 
-#nerd_face: ##################################################
+:octocat: Headline
+#octocat: ##################################################
+#    Enable (and add the url if needed) ONE option below
 #  https://
 #  No External Reference
 
+Description
 ########################################################################
 
 
@@ -29,8 +31,8 @@
 #   :green_heart: `:green_heart:` when fixing the CI build
 #   :lock: `:lock:` when dealing with security
 #   :memo: `:memo:` when writing docs
-#   :nerd_face: `:nerd_face:` when working on feature requests (DEFAULT)
 #   :non-potable_water: `:non-potable_water:` when plugging memory leaks
+#   :octocat: `:octocat:` when working on feature requests (DEFAULT)
 #   :penguin: `:penguin:` when fixing something on Linux
 #   :question: `:question:` when none of the other emoji are applicable - or you are not sure
 #   :racehorse: `:racehorse:` when improving performance
