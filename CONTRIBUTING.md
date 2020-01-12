@@ -86,5 +86,58 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * **Specify which browser (and version number of the browser) you're using.** 
 * **Specify the name and version of the OS you're using.**
 
+## Styleguides
+
+### Git Commit Messages
+
+* Use the _Git Commit Template_ from the [Add Git Commit Template](#add-git-commit-template) instructions below
+> important - make sure to do the above :point_up:
+* Use the present tense ("Add feature" not "Added feature")
+* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+* Include applicable emoji on first line
+* Limit the first line width line to 50 characters or less (not including the emoji)
+* Limit the description paragraph(s) width to 72 characters or less
+* Reference issues and pull requests liberally after the first line
+* When only changing documentation, include `[ci skip]` in the commit title
+
+#### Add Git Commit Template
+* To use the commit Template run the following from terminal
+* 
+```
+$ cd <DIRECTORY/OF/THIS/FILE>
+$ echo "[commit]\n\ttemplate = $PWD/.git/info/template.commit" >> .git/config && curl https://raw.githubusercontent.com/mlnck/.opensource/master/.github/GIT_COMMIT_TEMPLATE/template.commit -o .git/info/template.commit
+```
+
+### JavaScript Styleguide
+
+* Prefer the object spread operator (`{...anotherObj}`) to `Object.assign()`
+* Do not use semi-colons unless required
+* [Allman](https://en.wikipedia.org/wiki/Indentation_style#Allman_style) style braces
+  * Allowing for single line
+* Inline `export`s with expressions whenever possible
+  ```js
+  // Use this:
+  export default class ClassName
+  { 
+    function fnc(){ return true }
+  }
+
+  // Instead of:
+  class ClassName {
+    function fnc(){
+      return true;
+    };
+  }
+  export default ClassName
+  ```
+* Place requires in the following order:
+    * Built in Node Modules (such as `path`)
+    * Built in Node Modules (such as `React, {useClass}`)
+    * Local Modules (using relative paths)
+  * For each of the above arrange in alphabetical order unless errors would result
+* Place class properties in the following order:
+    * Class methods and properties (methods starting with `static`)
+    * Instance methods and properties
+
 Thanks,
 mlnck.me
