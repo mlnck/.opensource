@@ -5,7 +5,7 @@ I'm really glad you're reading this, because we need volunteer developers to hel
 Here are some important resources:
 
   * [Our roadmap](#) is the 10k foot view of where we're going, and
-  * [TODO](#) is our day-to-day project management space.
+  * [Here](#) is our day-to-day project management space.
   * Mailing list: Join our [developer list](#)
   * [Bugs](#)? Report them here
 
