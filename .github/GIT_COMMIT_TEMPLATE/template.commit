@@ -1,0 +1,37 @@
+#nerd_face: ##################################################
+:nerd_face: 
+#  http
+#  No External Reference
+
+########################################################################
+
+
+# 50-character max subject line
+#   What does this solve
+#   50 hashes are above for width measuerment (takes emoji into account)
+#     Update template-hash line if emoji changes
+#
+# link to issue (trello / asana / jira / etc)
+#
+# 72-character wrapped longer description.
+#   Bullets acceptible as * or -
+#   72 hashes are above for width measurement
+
+# Consider starting the commit message with an applicable emoji:
+    # :apple: `:apple:` when fixing something on macOS
+    # :arrow_down: `:arrow_down:` when downgrading dependencies
+    # :arrow_up: `:arrow_up:` when upgrading dependencies
+    # :art: `:art:` when improving the format/structure of the code
+    # :bug: `:bug:` when fixing a bug
+    # :checkered_flag: `:checkered_flag:` when fixing something on Windows
+    # :fire: `:fire:` when removing code or files
+    # :green_heart: `:green_heart:` when fixing the CI build
+    # :lock: `:lock:` when dealing with security
+    # :memo: `:memo:` when writing docs
+    # :nerd_face: `:nerd_face:` when working on feature requests (DEFAULT)
+    # :non-potable_water: `:non-potable_water:` when plugging memory leaks
+    # :penguin: `:penguin:` when fixing something on Linux
+    # :question: `:question:` when none of the other emoji are applicable - or you are not sure
+    # :racehorse: `:racehorse:` when improving performance
+    # :shirt: `:shirt:` when removing linter warnings
+    # :white_check_mark: `:white_check_mark:` when adding tests
