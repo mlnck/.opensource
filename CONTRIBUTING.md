@@ -102,7 +102,6 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 #### Add Git Commit Template
 * To use the commit Template run the following from terminal
-* 
 ```
 $ cd <DIRECTORY/OF/THIS/FILE>
 $ echo "[commit]\n\ttemplate = $PWD/.git/info/template.commit" >> .git/config && curl https://raw.githubusercontent.com/mlnck/.opensource/master/.github/GIT_COMMIT_TEMPLATE/template.commit -o .git/info/template.commit
