@@ -199,7 +199,6 @@ Please open an issue on `mlnck/.opensource` if you have suggestions for new labe
 | `windows` | [search][search-mlnck-repo-label-windows] | [search][search-mlnck-org-label-windows] | Related to mlnck running on Windows. |
 | `linux` | [search][search-mlnck-repo-label-linux] | [search][search-mlnck-org-label-linux] | Related to mlnck running on Linux. |
 | `mac` | [search][search-mlnck-repo-label-mac] | [search][search-mlnck-org-label-mac] | Related to mlnck running on macOS. |
-| `documentation` | [search][search-mlnck-repo-label-documentation] | [search][search-mlnck-org-label-documentation] | Related to any type of documentation (e.g. [API documentation](https://mlnck.io/docs/api/latest/) and the [flight manual](https://flight-manual.mlnck.io/)). |
 | `performance` | [search][search-mlnck-repo-label-performance] | [search][search-mlnck-org-label-performance] | Related to performance. |
 | `security` | [search][search-mlnck-repo-label-security] | [search][search-mlnck-org-label-security] | Related to security. |
 | `ui` | [search][search-mlnck-repo-label-ui] | [search][search-mlnck-org-label-ui] | Related to visual design. |
@@ -223,7 +222,6 @@ Please open an issue on `mlnck/.opensource` if you have suggestions for new labe
 | `installer` | [search][search-mlnck-repo-label-installer] | [search][search-mlnck-org-label-installer] | Related to the mlnck installers for different OSes. |
 | `auto-updater` | [search][search-mlnck-repo-label-auto-updater] | [search][search-mlnck-org-label-auto-updater] | Related to the auto-updater for different OSes. |
 | `deprecation-help` | [search][search-mlnck-repo-label-deprecation-help] | [search][search-mlnck-org-label-deprecation-help] | Issues for helping package authors remove usage of deprecated APIs in packages. |
-| `electron` | [search][search-mlnck-repo-label-electron] | [search][search-mlnck-org-label-electron] | Issues that require changes to [Electron](https://electron.mlnck.io) to fix or implement. |
 
 #### Pull Request Labels
 
