@@ -1,11 +1,9 @@
-:octocat: Headline
-#octocat: ##################################################
+:octocat: 
+#octocat: Headline #########################################
 #    Enable (and add the url if needed) ONE option below
 #  https://
-#  No External Reference
 
-Description
-########################################################################
+Description ############################################################
 
 
 # 50-character max subject line
@@ -13,8 +11,7 @@ Description
 #   50 hashes are above for width measuerment (takes emoji into account)
 #     Update template-hash line if emoji changes
 #
-# link to issue (trello / asana / jira / etc)
-# OR explicitly specify 'No External Reference'
+# [optional] link to issue (trello / asana / jira / etc)
 #
 # 72-character wrapped longer description.
 #   Bullets acceptible as * or -
